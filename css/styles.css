@@ -10391,3 +10391,7 @@ body {
     font-size: 1.25rem;
   }
 }
+
+.list {
+  padding-left: 20px;
+}
